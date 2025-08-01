@@ -6,9 +6,7 @@
 
 🎓 Currently diving deep into Software Engineering  
 🛠️ Passionate about building full-stack apps and all things tech  
-🚀 Founder of iNLAX — building digital tools for the future  
-✍️ Sharing my thoughts on tech on Medium  
-🌐 Check out my work: [Portfolio](#) <!-- Add your actual portfolio link here -->  
+🚀 Founder of Kozaa — building digital tools for the future  
 📬 Reach me at: limashagithmal@gmail.com  
 ⚡ Fun fact: My code probably has more coffee than logic ☕  
 
