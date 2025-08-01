@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Limasha Githmal</h1>
-<h3 align="center">🚀 Software Engineering Student | 💻 Full-Stack Dev Enthusiast | 🤖 ML + AI Explorer | 🧠 Founder of Kozaa</h3>
+<h3 align="center">🚀 Software Engineering Student | 💻 Full-Stack Dev Enthusiast | 🤖 ML + AI Explorer | 🧠 Co-Founder of Kozaa</h3>
 
 <!-- 🎯 About Me Section -->
 ## 🎯 About Me
