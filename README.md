@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Limasha Githmal</h1>
 <h3 align="center">🚀 Software Engineering Student | 💻 Full-Stack Dev Enthusiast | 🤖 ML + AI Explorer | 🧠 Founder of Kozaa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limasha-githmal&label=Profile%20views&color=0e75b6&style=flat" alt="limasha-githmal" /> </p>
-
 <!-- 🎯 About Me Section -->
 ## 🎯 About Me
 
 🎓 Currently diving deep into Software Engineering  
 🛠️ Passionate about building full-stack apps and all things tech  
-🚀 Founder of Kozaa — building digital tools for the future  
+🚀 Founder of iNLAX — building digital tools for the future  
+✍️ Sharing my thoughts on tech on Medium  
+🌐 Check out my work: [Portfolio](#) <!-- Add your actual portfolio link here -->  
 📬 Reach me at: limashagithmal@gmail.com  
 ⚡ Fun fact: My code probably has more coffee than logic ☕  
 
 ---
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limasha-githmal" alt="limasha-githmal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +22,10 @@
 <a href="https://www.hackerrank.com/limashagithmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="limashagithmal" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Icons List -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -68,9 +67,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limasha-githmal&show_icons=true&locale=en&layout=compact" alt="limasha-githmal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limasha-githmal&show_icons=true&locale=en" alt="limasha-githmal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limasha-githmal&" alt="limasha-githmal" /></p>
 
